@@ -25,7 +25,7 @@ This project is from my Django + React collaboration wih Brad Traversy. Full Cou
 
 # Download & Setup Instructions
 
-* 1 - Clone project: git clone this clone
+* 1 - Clone project: git clone this repo
 * 2 - cd proshop_django
 * 3 - Create virtual environment: virtualenv myenv
 * 4 - myenv\scripts\activate
